@@ -1,2 +1,2 @@
-# n8n-agent
-Building review agent
+# Calculator
+Building a simple console calculator app
