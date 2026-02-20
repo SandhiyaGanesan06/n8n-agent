@@ -1,2 +1,2 @@
 #sample code file
-print("hello")
+print("Hi")
