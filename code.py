@@ -1,5 +1,5 @@
 """
-Calculator class implementation with intentional bugs for Linear testing
+Calculator class implementation with intentional bugs for Linear testings
 """
 
 class Calculator:
